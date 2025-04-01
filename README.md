@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>G.MeenaPortfolio</title>
+  <title>G MeenaPortfolio</title>
   <style>
     body {
       margin: 0;
@@ -68,7 +68,7 @@
 
 <header>
   <div>Your Profile Picture</div>
-  <h1>G.Meena</h1>
+  <h1>G Meena</h1>
   <p>Software Developer</p>
 </header>
 
@@ -111,7 +111,7 @@
 </div>
 
 <footer>
-  © 2025 G.Meena
+  © 2025 G Meena
 </footer>
 
 </body>
